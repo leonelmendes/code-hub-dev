@@ -1,5 +1,11 @@
 # Bem-vindo ao Meu Repositório Principal
 
+![GitHub followers](https://img.shields.io/github/followers/code-hub-dev?style=social)
+![GitHub stars](https://img.shields.io/github/stars/code-hub-dev?style=social)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-hub-dev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-hub-dev&layout=compact&theme=radical)
+
 ## Sobre Mim
 
 Olá! Sou Leonel Francisco, um desenvolvedor apaixonado por tecnologia e inovação. Trabalho com uma variedade de linguagens e tecnologias para construir soluções eficientes e escaláveis.
