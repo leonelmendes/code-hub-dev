@@ -44,7 +44,7 @@ Aqui estão alguns dos meus projetos em destaque:
 Se você quiser entrar em contato comigo, você pode me encontrar nas seguintes plataformas:
 
 - [BuyMeaCoffe](https://www.buymeacoffee.com/codehub)
-- [Twitter](https://twitter.com/codehub_dev)
+- [Twitter](https://twitter.com/lionelmendes_)
 - [Email](mailto:codehub.dev@outlook.com)
 
 Obrigado por visitar meu repositório! Fique à vontade para explorar os projetos e entrar em contato se tiver alguma dúvida ou sugestão.
